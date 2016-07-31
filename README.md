@@ -1,1 +1,3 @@
-"# ReactJsFriendExample" 
+I was bored on a Saturday, so I started reading about ES6. Earlier in the week, I was doing some ReactJS tutorials here and there. I went down the path of trying to use the "new" keyword with ReactJS. My code would not work in Chrome, so I quickly threw
+this code on plunker https://embed.plnkr.co/JlL6EK/ . Now to get my example to work in Chrome, I needed to create a local web server. I did a quick Google search and decided to follow this example http://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm .
+This example not only worked but it showed me a way to restructure my code. 
